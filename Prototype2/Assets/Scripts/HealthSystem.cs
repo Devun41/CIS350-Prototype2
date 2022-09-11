@@ -2,7 +2,7 @@
 /*
  Devun Schneider
  Prototype 2
- Controls the 
+ Controls the display of the hearts
  
  */
 using System.Collections;
