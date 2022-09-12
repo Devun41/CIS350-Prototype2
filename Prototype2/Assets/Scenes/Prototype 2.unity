@@ -710,7 +710,7 @@ MonoBehaviour:
   - {fileID: 1792461813}
   fullHeart: {fileID: 21300000, guid: b3da3b9d81067ab47989f79ac9f65a7e, type: 3}
   emptyHeart: {fileID: 21300002, guid: b3da3b9d81067ab47989f79ac9f65a7e, type: 3}
-  gameOver: 1
+  gameOver: 0
   gameOverText: {fileID: 337335037}
 --- !u!4 &679328600
 Transform:
@@ -1596,6 +1596,7 @@ MonoBehaviour:
   - {fileID: 6425649400852739316, guid: 1e112525acf6a8f49a5feaf58b5af674, type: 3}
   - {fileID: 4275075669401158259, guid: 1f3cac79b0f7e424fb4b44fb210ffe58, type: 3}
   - {fileID: 1151891738633900052, guid: e06afb17f17430a41906d9202cef5e7c, type: 3}
+  healthSystem: {fileID: 0}
 --- !u!4 &2010075861
 Transform:
   m_ObjectHideFlags: 0
